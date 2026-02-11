@@ -88,3 +88,48 @@ Instead of only learning formulas, I focus on **understanding how and why things
 ---
 
 ## 📂 Project Structure
+```
+math-for-data-science/
+│
+├── probability/
+│   ├── combinatorics.ipynb
+
+Each folder includes:
+
+- 📖 theory notes  
+- 🧠 solved problems  
+- 💻 Python implementations  
+- 🧪 practice exercises  
+
+---
+
+## 📖 Study Methodology
+
+My learning process follows 4 steps:
+
+1. Understand the theory  
+2. Solve manually (paper & pencil)  
+3. Implement in Python  
+4. Apply to real data  
+
+> Learning math without implementation is incomplete.  
+> Learning code without math is fragile.
+
+---
+
+## 🎯 Goals
+
+- [x] Review math fundamentals
+- [x] Code algorithms from scratch
+- [ ] Solve real-world datasets
+- [ ] Build mini-projects
+- [ ] Apply knowledge to Machine Learning & AI
+
+---
+
+## 🚀 How to Run
+
+### Clone the repository
+
+```bash
+git clone https://github.com/victorxavier01/math.git
