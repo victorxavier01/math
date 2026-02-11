@@ -93,14 +93,15 @@ math-for-data-science/
 │
 ├── probability/
 │   ├── combinatorics.ipynb
-
+│
+└── README.md
+```
 Each folder includes:
 
 - 📖 theory notes  
 - 🧠 solved problems  
 - 💻 Python implementations  
 - 🧪 practice exercises  
-
 ---
 
 ## 📖 Study Methodology
